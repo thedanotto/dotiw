@@ -70,6 +70,7 @@ module DOTIW
 
     def build_hours
       output[:hours], self.distance = distance.divmod(1.hour)
+      self.distance = 0
     end
 
     def build_days
