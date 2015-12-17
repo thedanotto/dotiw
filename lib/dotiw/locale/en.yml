@@ -3,16 +3,16 @@ en:
     dotiw:
       seconds:
         one: 1 second
-        other: "%{count} seconds"
+        other: "%{count}s"
       minutes:
         one: 1 minute
-        other: "%{count} minutes"
+        other: "%{count}m"
       hours:
         one: 1 hour
-        other: "%{count} hours"
+        other: "%{count}h"
       days:
         one: 1 day
-        other: "%{count} days"
+        other: "%{count}d"
       weeks:
         one: 1 week
         other: "%{count} weeks"
